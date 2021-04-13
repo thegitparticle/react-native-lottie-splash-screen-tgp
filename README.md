@@ -1,6 +1,8 @@
 # react-native-lottie-splash-screen-tgp
 
-Fork of [react-native-lottie-splash-screen](https://github.com/HwangTaehyun/react-native-lottie-splash-screen) which is a fork of [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) and add implement for animation splash screen using airbnb lottie files.
+Fork of [react-native-lottie-splash-screen](https://github.com/HwangTaehyun/react-native-lottie-splash-screen) which is a fork of [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen).
+
+Allows to use lottie animation files (JSON) for splash screen.
 
 Works on IOS and Android.
 
