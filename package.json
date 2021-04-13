@@ -1,6 +1,6 @@
 {
   "name": "react-native-lottie-splash-screen-tgp",
-  "version": "0.1.15-tgp",
+  "version": "0.1.16-tgp",
   "description": "A lottie splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
   "main": "index.js",
   "types": "index.d.ts",
