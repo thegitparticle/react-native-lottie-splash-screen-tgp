@@ -1,11 +1,8 @@
-# react-native-lottie-splash-screen
+# react-native-lottie-splash-screen-tgp
 
-[![Download](https://img.shields.io/badge/Download-v3.2.0-ff69b4.svg) ](https://www.npmjs.com/package/react-native-lottie-splash-screen)
-[ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen/pulls)
-[ ![react-native-lottie-splash-screen release](https://img.shields.io/github/release/HwangTaehyun/react-native-lottie-splash-screen.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/GitHubPopular/releases)
-[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/react-native-check-box/master/LICENSE)
+Fork of [react-native-lottie-splash-screen](https://github.com/HwangTaehyun/react-native-lottie-splash-screen) which is a fork of [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen).
 
-Fork of [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) and add implement for animation splash screen using airbnb lottie files.
+Allows to use lottie animation files (JSON) for splash screen.
 
 Works on IOS and Android.
 
@@ -17,10 +14,6 @@ Works on IOS and Android.
 - [API](#api)
 - [Contribution](#contribution)
 
-## Examples
-
-![react-native-lottie-splash-screen-Android](screenshot/Lottie-Splash-Screen-Android.gif)
-![react-native-lottie-splash-screen-iOS](screenshot/Lottie-Splash-Screen-IOS.gif)
 
 ## Installation
 
